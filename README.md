@@ -1,6 +1,6 @@
 # Music Player Directory Browser
 
-A PHP-based music player that dynamically creates a player interface for any directory containing audio files.
+A PHP-based and Vanilla JS music player that dynamically creates a player interface for any directory containing audio files.
 
 ## Features
 
