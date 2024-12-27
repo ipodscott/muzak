@@ -1,7 +1,6 @@
 # Music Player Directory Browser
 
-A PHP-based music player that dynamically creates a player
-interface for any directory containing audio files.
+A PHP-based music player that dynamically creates a player interface for any directory containing audio files.
 
 ## Features
 
@@ -62,8 +61,9 @@ All your files and folders are presented as a tree in the file explorer. You can
  2. Add MP3 files
  3.  Include any image file for album art
  4. Add data.json with album info
- 5. Access via: `domain.com/directory-name
+ 5. Access via: `domain.com/muzak/directory-name
 
+`
 ## Requirements
 
  - PHP 7.0+
