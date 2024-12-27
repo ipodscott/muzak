@@ -20,7 +20,6 @@ A PHP-based music player that dynamically creates a player interface for any dir
  4. Add data.json with album info
  5. Access via: `domain.com/directory-name
 
-`
 ## Requirements
 
  - PHP 7.0+
