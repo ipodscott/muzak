@@ -18,7 +18,7 @@ A PHP-based music player that dynamically creates a player interface for any dir
  2. Add MP3 files
  3.  Include any image file for album art
  4. Add data.json with album info
- 5. Access via: `domain.com/muzak/directory-name
+ 5. Access via: `domain.com/directory-name
 
 `
 ## Requirements
